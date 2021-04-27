@@ -1,0 +1,20 @@
+线段树入门：
+https://www.luogu.com.cn/blog/pks-LOVING/senior-data-structure-qian-tan-xian-duan-shu-segment-tree 线段树入门
+https://www.luogu.com.cn/blog/82152/Introduction-of-zkwSegmentTree 位运算线段树
+treap：
+https://www.luogu.com.cn/blog/Chanis/fhq-treap
+https://www.luogu.com.cn/blog/HOJQVFNA/qian-xi-treap-ping-heng-shu
+https://www.luogu.com.cn/blog/85514/fhq-treap-xue-xi-bi-ji
+替罪羊树：
+https://www.luogu.com.cn/blog/Apocrypha/scapegoattree-yang-xie
+https://www.luogu.com.cn/blog/hanzhongtlx-juruo/ti-zui-yang-shu-xue-xi-bi-ji
+splay：
+https://www.luogu.com.cn/blog/tiger0132/slay-notes
+“李超线段树”类问题：
+https://www.luogu.com.cn/blog/infinity-dimension/Li-Chao-Tree
+“楼房重建”类问题：
+https://www.luogu.com.cn/blog/PinkRabbit/Segment-Tree-and-Prefix-Maximums 基本够用的方法
+https://www.luogu.com.cn/blog/PinkRabbit/solution-cf1340f 题目
+https://www.luogu.com.cn/problem/P6781 题目
+https://www.cnblogs.com/jz-597/p/14070633.html 题目
+https://peehs-moorhsum.blog.uoj.ac/blog/5486 C题
